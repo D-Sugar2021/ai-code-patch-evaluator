@@ -20,3 +20,6 @@ ai-code-patch-evaluator/
 ├── patch_evaluator.py      # Core static analysis and evaluation engine
 ├── sample_target.py        # Sample code patch used for testing
 └── README.md               # Documentation
+
+
+python patch_evaluator.py sample_target.py
